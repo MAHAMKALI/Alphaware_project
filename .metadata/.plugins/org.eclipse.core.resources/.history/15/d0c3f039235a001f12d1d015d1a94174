@@ -1,0 +1,5 @@
+package com.dummy.json.Entities;
+
+public class Continent {
+
+}
